@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=q9s2f9PEFco&list=PL1xqkpO_SvY2_rSwHTBIBxXMqmek--
 if you don't take a look you will barely understand anything.
 
 
-Run edior.py and then prepareprioaseprite.py yourpalette.pal 
+Run editor.py and then prepareprioaseprite.py yourpalette.pal 
 
 - SEEE THE VIDEO -
 
