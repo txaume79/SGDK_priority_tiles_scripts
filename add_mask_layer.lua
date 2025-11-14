@@ -1,5 +1,5 @@
 --!/bin/lua
--- prepares a aseprite file to be processed with a modified Pigsy's priority layer lua script ase
+-- prepares a aseprite file to be processed with a modified Pigsy's priority layer lua script as
 -- it is described here https://youtu.be/uvsgg4YbJRk?list=PL1xqkpO_SvY2_rSwHTBIBxXMqmek--GAb
 local mask = "RUTA_CAMBIADA_POR_PYTHON"
 local palette = "RUTA_CAMBIADA_POR_PYTHON_PAL"
