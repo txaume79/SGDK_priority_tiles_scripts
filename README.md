@@ -27,6 +27,6 @@ More extended explanations on each file. By order:
 * prioritypigsy.lua - ALL CREDITS TO Pigsy original script.
 
 Hopefully some day i will join all of them on a more handy way. Who knows. 
-Find me at https://x.com/Jaume96749222 
+Find me at https://x.com/Jaume96749222 - See the stuff in action https://x.com/i/status/1988761427872452889 - as dirty as the repo ;)
 NO SUPPORT AT ALL ;) 
 SEE THE VIDEO. 
