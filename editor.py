@@ -3,7 +3,7 @@
 # On the gui you can select any image from the selected folder shown on the left side of the window 
 # that will be loaded on the central canvas. Then select one by one tiles (8x8) by clicking on it or just press down the
 # left mouse button to select as you run the cursor over them. Can make zoom in and out using
-# the wheel. It constantly saves the state on a json so you can get your work when you left it if
+# the wheel. It constantly saves the state on a json so you can get your work where you left it if
 # the json is on the same folder. Once that's generated, calls setprioFULLAND01.py that generates
 # tmx and pal (pal bin format, barely tested as lately i did not care - legacy code) 
 
