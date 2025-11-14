@@ -22,7 +22,7 @@ Run editor.py and then prepareprioaseprite.py yourpalette.pal
 More extended explanations on each file. By order:
 * editor.py 
 * setprioFULLAND01.py
-* prepareprioaseprite.py
+* prepareprioaseprite.py - meant to be used under WSL2 but easy to change 
 * add_maske_layer.lua
 * prioritypigsy.lua - ALL CREDITS TO Pigsy original script.
 
